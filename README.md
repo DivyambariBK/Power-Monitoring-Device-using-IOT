@@ -30,3 +30,7 @@ The current sensor measures the amount of current flowing through the appliance,
 ---
 
 ## Circuit Diagram 
+<img width="1364" height="701" alt="image" src="https://github.com/user-attachments/assets/ed8eb933-9d61-412f-a7bf-3cf3f2f2744c" />
+
+
+
